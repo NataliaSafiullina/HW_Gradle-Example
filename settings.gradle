@@ -1,0 +1,5 @@
+rootProject.name = 'HW_Gradle-Example'
+include 'db'
+include 'api'
+include 'service'
+
